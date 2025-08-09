@@ -90,6 +90,7 @@ ios-light-mode-blue-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -182,6 +183,7 @@ ios-light-mode-blue-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -274,6 +276,7 @@ ios-dark-mode-blue-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -366,6 +369,7 @@ ios-dark-mode-blue-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -458,6 +462,7 @@ ios-light-mode-dark-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -550,6 +555,7 @@ ios-light-mode-dark-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -642,6 +648,7 @@ ios-dark-mode-dark-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -734,6 +741,7 @@ ios-dark-mode-dark-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -826,6 +834,7 @@ ios-light-mode-dark-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -918,6 +927,7 @@ ios-light-mode-dark-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1010,6 +1020,7 @@ ios-dark-mode-dark-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1102,6 +1113,7 @@ ios-dark-mode-dark-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1194,6 +1206,7 @@ ios-light-mode-light-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1286,6 +1299,7 @@ ios-light-mode-light-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1378,6 +1392,7 @@ ios-dark-mode-light-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1470,6 +1485,7 @@ ios-dark-mode-light-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1562,6 +1578,7 @@ ios-light-mode-light-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1654,6 +1671,7 @@ ios-light-mode-light-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1746,6 +1764,7 @@ ios-dark-mode-light-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1838,6 +1857,7 @@ ios-dark-mode-light-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -1930,6 +1950,7 @@ ios-light-mode-orange-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2022,6 +2043,7 @@ ios-light-mode-orange:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2114,6 +2136,7 @@ ios-dark-mode-orange-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2206,6 +2229,7 @@ ios-dark-mode-orange:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2298,6 +2322,7 @@ ios-light-mode-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2390,6 +2415,7 @@ ios-light-mode-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2482,6 +2508,7 @@ ios-dark-mode-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)
 
 #
@@ -2574,4 +2601,5 @@ ios-dark-mode-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-on-normal: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   codemirror-property: var(--accent-color)

@@ -87,8 +87,8 @@ ios-light-mode-blue-red-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -178,8 +178,8 @@ ios-light-mode-blue-red:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -269,8 +269,8 @@ ios-dark-mode-blue-red-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -360,8 +360,8 @@ ios-dark-mode-blue-red:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -451,8 +451,8 @@ ios-light-mode-dark-blue-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -542,8 +542,8 @@ ios-light-mode-dark-blue:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -633,8 +633,8 @@ ios-dark-mode-dark-blue-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -724,8 +724,8 @@ ios-dark-mode-dark-blue:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -815,8 +815,8 @@ ios-light-mode-dark-green-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -906,8 +906,8 @@ ios-light-mode-dark-green:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -997,8 +997,8 @@ ios-dark-mode-dark-green-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1088,8 +1088,8 @@ ios-dark-mode-dark-green:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1179,8 +1179,8 @@ ios-light-mode-light-blue-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1270,8 +1270,8 @@ ios-light-mode-light-blue:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1361,8 +1361,8 @@ ios-dark-mode-light-blue-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1452,8 +1452,8 @@ ios-dark-mode-light-blue:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1543,8 +1543,8 @@ ios-light-mode-light-green-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1634,8 +1634,8 @@ ios-light-mode-light-green:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1725,8 +1725,8 @@ ios-dark-mode-light-green-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1816,8 +1816,8 @@ ios-dark-mode-light-green:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1907,8 +1907,8 @@ ios-light-mode-orange-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -1998,8 +1998,8 @@ ios-light-mode-orange:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -2089,8 +2089,8 @@ ios-dark-mode-orange-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -2180,8 +2180,8 @@ ios-dark-mode-orange:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -2271,8 +2271,8 @@ ios-light-mode-red-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -2362,8 +2362,8 @@ ios-light-mode-red:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -2453,8 +2453,8 @@ ios-dark-mode-red-alternative:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)
 
 #
@@ -2544,6 +2544,6 @@ ios-dark-mode-red:
   input-dropdown-icon-color: var(--primary-text-color)
   input-idle-line-color: var(--secondary-text-color)
   input-hover-line-color: var(--secondary-text-color)
-  wa-color-fill-normal: transparent
-  wa-color-on-normal: var(--primary-text-color))
+  wa-color-brand-fill-normal: transparent
+  wa-color-brand-on-normal: var(--primary-text-color))
   codemirror-property: var(--accent-color)

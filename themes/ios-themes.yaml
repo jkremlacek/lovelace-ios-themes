@@ -90,13 +90,16 @@ ios-light-mode-blue-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -190,13 +193,16 @@ ios-light-mode-blue-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -290,13 +296,16 @@ ios-dark-mode-blue-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -390,13 +399,16 @@ ios-dark-mode-blue-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -490,13 +502,16 @@ ios-light-mode-dark-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -590,13 +605,16 @@ ios-light-mode-dark-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -690,13 +708,16 @@ ios-dark-mode-dark-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -790,13 +811,16 @@ ios-dark-mode-dark-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -890,13 +914,16 @@ ios-light-mode-dark-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -990,13 +1017,16 @@ ios-light-mode-dark-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1090,13 +1120,16 @@ ios-dark-mode-dark-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1190,13 +1223,16 @@ ios-dark-mode-dark-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1290,13 +1326,16 @@ ios-light-mode-light-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1390,13 +1429,16 @@ ios-light-mode-light-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1490,13 +1532,16 @@ ios-dark-mode-light-blue-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1590,13 +1635,16 @@ ios-dark-mode-light-blue:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1690,13 +1738,16 @@ ios-light-mode-light-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1790,13 +1841,16 @@ ios-light-mode-light-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1890,13 +1944,16 @@ ios-dark-mode-light-green-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -1990,13 +2047,16 @@ ios-dark-mode-light-green:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2090,13 +2150,16 @@ ios-light-mode-orange-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2190,13 +2253,16 @@ ios-light-mode-orange:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2290,13 +2356,16 @@ ios-dark-mode-orange-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2390,13 +2459,16 @@ ios-dark-mode-orange:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2490,13 +2562,16 @@ ios-light-mode-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2590,13 +2665,16 @@ ios-light-mode-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2690,13 +2768,16 @@ ios-dark-mode-red-alternative:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)
 
@@ -2790,12 +2871,15 @@ ios-dark-mode-red:
   wa-color-brand-fill-normal: transparent
   wa-color-brand-fill-quiet: rgb(255 255 255 / 10%)
   wa-color-brand-on-normal: "#ff9409"
+  wa-color-brand-on-quiet: "#ff9409"
   wa-color-brand-fill-loud: "#ff9409"
   ha-color-fill-primary-normal-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-normal-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-normal-resting: transparent
   codemirror-property: var(--accent-color)
   ha-color-form-background: transparent
+  ha-color-form-background-hover: rgb(255 255 255 / 10%)
   ha-color-fill-primary-quiet-hover: rgb(255 255 255 / 10%)
+  ha-color-fill-primary-quiet-active: rgb(255 255 255 / 20%)
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   wa-color-neutral-fill-normal: rgb(255 255 255 / 10%)

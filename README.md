@@ -7,9 +7,10 @@
 
 > The iOS Theme by @basnijholt and modified from @kalkih's [Gist](https://gist.github.com/kalkih/fbe84b371ef7f992c3bd51b235e2c299)
 
-A generalized version of [*iOS Dark Mode Theme*](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)!
+A generalized version of [_iOS Dark Mode Theme_](https://github.com/basnijholt/lovelace-ios-dark-mode-theme)!
 This includes both **Dark and Light Mode** and 7 different HomeKit backgrounds.
 Installing this theme adds 28 different themes:
+
 - `ios-light-mode-dark-green`
 - `ios-dark-mode-dark-green`
 - `ios-light-mode-light-blue`
@@ -54,21 +55,23 @@ To use locally hosted background images, follow the instructions below.
 
 1. **Create the necessary directory**:
    Open a terminal (or SSH into your Home Assistant setup) and run the following command to ensure the correct folder structure is in place:
+
    ```bash
    mkdir -p /config/www/ios-themes
    ```
 
 2. **Download the background images**:
    Download the required background images using `wget` commands. This will store them in the `/config/www/ios-themes` folder.
-   
+
    For example:
+
    ```bash
    # Dark Blue background
    wget -O /config/www/ios-themes/homekit-bg-dark-blue.jpg https://raw.githubusercontent.com/basnijholt/lovelace-ios-themes/master/themes/homekit-bg-dark-blue.jpg
-   
+
    # Light Blue background
    wget -O /config/www/ios-themes/homekit-bg-dark-blue.jpg https://raw.githubusercontent.com/basnijholt/lovelace-ios-themes/master/themes/homekit-bg-light-blue.jpg
-   
+
    # Add more backgrounds as needed for other themes
    ```
 
@@ -142,15 +145,14 @@ Low quality `gif`, click [here](https://github.com/basnijholt/lovelace-ios-theme
 ![Theme - Overview](https://github.com/basnijholt/lovelace-ios-themes/raw/media/screenshots/red-dark.png)
 ![Theme - Overview](https://github.com/basnijholt/lovelace-ios-themes/raw/media/screenshots/red-light.png)
 
-
 ## Installation
 
 1. Installation of the themes with HACS.
 
-* (If you do not have it yet) Install [HACS](https://hacs.xyz/docs/installation/manual).
-* Go to the HACS Community Store.
-* Click on the `THEMES` tab.
-* Search and install the `iOS Themes`.
+- (If you do not have it yet) Install [HACS](https://hacs.xyz/docs/installation/manual).
+- Go to the HACS Community Store.
+- Click on the `THEMES` tab.
+- Search and install the `iOS Themes`.
 
 2. Add the following code to your `configuration.yaml` file (reboot required).
 
@@ -162,6 +164,7 @@ frontend:
 ```
 
 3. Add the following line to your `lovelace-ui.yaml` or use the RAW editor:
+
 ```yaml
 background: var(--background-image)
 ```
@@ -169,9 +172,11 @@ background: var(--background-image)
 So the end result will be something like [this example](https://github.com/basnijholt/home-assistant-config/blob/master/lovelace-ui.yaml).
 
 ## Automations to easily switch
+
 **WARNING: if you want to switch themes using automations, you need to go to your profile and select "Backend-selected" for Theme!**
 
 It is recommended to use [these automations (`basnijholt/home-assistant-config/automations/frontend.yaml`)](https://github.com/basnijholt/home-assistant-config/blob/master/automations/frontend.yaml) in combination with these:
+
 ```yaml
 input_select:
   theme:
@@ -184,7 +189,7 @@ input_select:
       - orange
       - red
     icon: mdi:format-color-fill
-  
+
 input_boolean:
   dark_mode:
     name: Dark mode
@@ -192,10 +197,18 @@ input_boolean:
   theme_alternative:
     name: Theme alternative (disable active state color)
 ```
-Then add `input_select.theme`, `input_boolean.theme_alternative`, and `input_boolean.dark_mode` to your Lovelace UI.
 
+Then add `input_select.theme`, `input_boolean.theme_alternative`, and `input_boolean.dark_mode` to your Lovelace UI.
 
 ## How does the code work
 
 All the **28(!)** themes in [`themes/`](themes/) are **automatically generated** using [`create-themes.py`](create-themes.py) and the information in [`settings-light-dark.yaml`](settings-light-dark.yaml) is passed into [`template.jinja2`](template.jinja2).
 The resulting file is [`themes/ios-themes.yaml`](themes/ios-themes.yaml) which contains all variants (different backgrounds and dark/light mode).
+
+## How to recreate theme during development
+
+Simply run
+
+```
+python create-themes.py
+```

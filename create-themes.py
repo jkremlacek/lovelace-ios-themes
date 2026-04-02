@@ -1,6 +1,6 @@
 # Render themes, creates them as separate files and as
 # one combined file `ios-themes.yaml`.
-# Part of https://github.com/basnijholt/lovelace-ios-themes
+# Part of https://github.com/jkremlacek/lovelace-ios-themes
 
 from pathlib import Path
 
@@ -11,10 +11,10 @@ from PIL import Image, ImageColor
 with open("settings-light-dark.yaml") as f:
     all_settings = yaml.safe_load(f)
 
-COMMIT = "a37376d918fcfe4785be99910dc9a7200ac37da9"
+COMMIT = "56d05e78f333f0866f1d58e82a1abc0ef5811d14"
 
 BASE_URL = (
-    f"https://cdn.jsdelivr.net/gh/basnijholt/lovelace-ios-themes@{COMMIT}/themes"
+    f"https://cdn.jsdelivr.net/gh/jkremlacek/lovelace-ios-themes@{COMMIT}/themes"
 )
 
 
@@ -52,7 +52,7 @@ fname = Path("themes/ios-themes.yaml")
 fname.parent.mkdir(parents=True, exist_ok=True)
 
 with fname.open("w") as f:
-    f.write("---\n# From https://github.com/basnijholt/lovelace-ios-themes")
+    f.write("---\n# From https://github.com/jkremlacek/lovelace-ios-themes")
 for background in sorted(Path("themes").glob("homekit-bg-*.jpg")):
     color = background.stem.split("homekit-bg-")[-1]
     if color in BACKGROUND_COLORS:

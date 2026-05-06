@@ -107,8 +107,8 @@ ios-light-mode-blue-red-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -220,8 +220,8 @@ ios-light-mode-blue-red:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -333,8 +333,8 @@ ios-dark-mode-blue-red-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -446,8 +446,8 @@ ios-dark-mode-blue-red:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -559,8 +559,8 @@ ios-light-mode-dark-blue-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -672,8 +672,8 @@ ios-light-mode-dark-blue:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -785,8 +785,8 @@ ios-dark-mode-dark-blue-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -898,8 +898,8 @@ ios-dark-mode-dark-blue:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1011,8 +1011,8 @@ ios-light-mode-dark-green-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1124,8 +1124,8 @@ ios-light-mode-dark-green:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1237,8 +1237,8 @@ ios-dark-mode-dark-green-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1350,8 +1350,8 @@ ios-dark-mode-dark-green:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1463,8 +1463,8 @@ ios-light-mode-light-blue-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1576,8 +1576,8 @@ ios-light-mode-light-blue:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1689,8 +1689,8 @@ ios-dark-mode-light-blue-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1802,8 +1802,8 @@ ios-dark-mode-light-blue:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -1915,8 +1915,8 @@ ios-light-mode-light-green-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2028,8 +2028,8 @@ ios-light-mode-light-green:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2141,8 +2141,8 @@ ios-dark-mode-light-green-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2254,8 +2254,8 @@ ios-dark-mode-light-green:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2367,8 +2367,8 @@ ios-light-mode-orange-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2480,8 +2480,8 @@ ios-light-mode-orange:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2593,8 +2593,8 @@ ios-dark-mode-orange-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2706,8 +2706,8 @@ ios-dark-mode-orange:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2819,8 +2819,8 @@ ios-light-mode-red-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -2932,8 +2932,8 @@ ios-light-mode-red:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9409"
   ha-switch-checked-border-color: "#ff9409"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -3045,8 +3045,8 @@ ios-dark-mode-red-alternative:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
@@ -3158,8 +3158,8 @@ ios-dark-mode-red:
   ha-switch-checked-thumb-border-color: "#FFF"
   ha-switch-checked-background-color: "#ff9f09"
   ha-switch-checked-border-color: "#ff9f09"
-  ha-switch-background-color: transparent
-  ha-switch-border-color: "#484848"
+  ha-switch-background-color: #737373
+  ha-switch-border-color: "#737373"
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)

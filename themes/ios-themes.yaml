@@ -105,8 +105,8 @@ ios-light-mode-blue-red-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -218,8 +218,8 @@ ios-light-mode-blue-red:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -331,8 +331,8 @@ ios-dark-mode-blue-red-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -444,8 +444,8 @@ ios-dark-mode-blue-red:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -557,8 +557,8 @@ ios-light-mode-dark-blue-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -670,8 +670,8 @@ ios-light-mode-dark-blue:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -783,8 +783,8 @@ ios-dark-mode-dark-blue-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -896,8 +896,8 @@ ios-dark-mode-dark-blue:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1009,8 +1009,8 @@ ios-light-mode-dark-green-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1122,8 +1122,8 @@ ios-light-mode-dark-green:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1235,8 +1235,8 @@ ios-dark-mode-dark-green-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1348,8 +1348,8 @@ ios-dark-mode-dark-green:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1461,8 +1461,8 @@ ios-light-mode-light-blue-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1574,8 +1574,8 @@ ios-light-mode-light-blue:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1687,8 +1687,8 @@ ios-dark-mode-light-blue-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1800,8 +1800,8 @@ ios-dark-mode-light-blue:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -1913,8 +1913,8 @@ ios-light-mode-light-green-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2026,8 +2026,8 @@ ios-light-mode-light-green:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2139,8 +2139,8 @@ ios-dark-mode-light-green-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2252,8 +2252,8 @@ ios-dark-mode-light-green:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2365,8 +2365,8 @@ ios-light-mode-orange-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2478,8 +2478,8 @@ ios-light-mode-orange:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2591,8 +2591,8 @@ ios-dark-mode-orange-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2704,8 +2704,8 @@ ios-dark-mode-orange:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2817,8 +2817,8 @@ ios-light-mode-red-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -2930,8 +2930,8 @@ ios-light-mode-red:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9409"
+  ha-switch-checked-border-color: "#ff9409"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -3043,8 +3043,8 @@ ios-dark-mode-red-alternative:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"
@@ -3156,8 +3156,8 @@ ios-dark-mode-red:
   ha-color-fill-primary-quiet-resting: rgb(255 255 255 / 20%)
   ha-switch-checked-thumb-background-color: "#FFF"
   ha-switch-checked-thumb-border-color: "#FFF"
-  ha-switch-checked-background-color: 
-  ha-switch-checked-border-color: 
+  ha-switch-checked-background-color: "#ff9f09"
+  ha-switch-checked-border-color: "#ff9f09"
   ha-switch-background-color: transparent
   ha-switch-border-color: "#484848"
   ha-switch-thumb-background-color: "#FFF"

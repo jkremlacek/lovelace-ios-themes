@@ -112,7 +112,7 @@ ios-light-mode-blue-red-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - blue-red
@@ -226,7 +226,7 @@ ios-light-mode-blue-red:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - blue-red
@@ -340,7 +340,7 @@ ios-dark-mode-blue-red-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - blue-red
@@ -454,7 +454,7 @@ ios-dark-mode-blue-red:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Light Mode Theme - dark-blue
@@ -568,7 +568,7 @@ ios-light-mode-dark-blue-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - dark-blue
@@ -682,7 +682,7 @@ ios-light-mode-dark-blue:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - dark-blue
@@ -796,7 +796,7 @@ ios-dark-mode-dark-blue-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - dark-blue
@@ -910,7 +910,7 @@ ios-dark-mode-dark-blue:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Light Mode Theme - dark-green
@@ -1024,7 +1024,7 @@ ios-light-mode-dark-green-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - dark-green
@@ -1138,7 +1138,7 @@ ios-light-mode-dark-green:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - dark-green
@@ -1252,7 +1252,7 @@ ios-dark-mode-dark-green-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - dark-green
@@ -1366,7 +1366,7 @@ ios-dark-mode-dark-green:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Light Mode Theme - light-blue
@@ -1480,7 +1480,7 @@ ios-light-mode-light-blue-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - light-blue
@@ -1594,7 +1594,7 @@ ios-light-mode-light-blue:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - light-blue
@@ -1708,7 +1708,7 @@ ios-dark-mode-light-blue-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - light-blue
@@ -1822,7 +1822,7 @@ ios-dark-mode-light-blue:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Light Mode Theme - light-green
@@ -1936,7 +1936,7 @@ ios-light-mode-light-green-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - light-green
@@ -2050,7 +2050,7 @@ ios-light-mode-light-green:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - light-green
@@ -2164,7 +2164,7 @@ ios-dark-mode-light-green-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - light-green
@@ -2278,7 +2278,7 @@ ios-dark-mode-light-green:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Light Mode Theme - orange
@@ -2392,7 +2392,7 @@ ios-light-mode-orange-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - orange
@@ -2506,7 +2506,7 @@ ios-light-mode-orange:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - orange
@@ -2620,7 +2620,7 @@ ios-dark-mode-orange-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - orange
@@ -2734,7 +2734,7 @@ ios-dark-mode-orange:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Light Mode Theme - red
@@ -2848,7 +2848,7 @@ ios-light-mode-red-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Light Mode Theme - red
@@ -2962,7 +2962,7 @@ ios-light-mode-red:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(255, 255, 255, 0.9)
+  ha-tooltip-background-color: rgba(255, 255, 255, 0.9)
 
 #
 # iOS Dark Mode Theme - red
@@ -3076,7 +3076,7 @@ ios-dark-mode-red-alternative:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
 
 #
 # iOS Dark Mode Theme - red
@@ -3190,4 +3190,4 @@ ios-dark-mode-red:
   ha-switch-thumb-background-color: "#FFF"
   ha-switch-thumb-border-color: "#FFF"
   codemirror-property: var(--accent-color)
-  wa-tooltip-background-color: rgba(25, 25, 25, 0.9)
+  ha-tooltip-background-color: rgba(25, 25, 25, 0.9)
